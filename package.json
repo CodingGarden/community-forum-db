@@ -1,0 +1,16 @@
+{
+  "name": "forum-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "w3cj <cj@null.computer>",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^0.14.6",
+    "pg": "^7.4.3"
+  }
+}
